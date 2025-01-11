@@ -1,18 +1,49 @@
-## Getting Started
+# Bank Management System - Java Swing Project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Description
+The Bank Management System is a Java Swing application that simulates basic banking operations. It provides a user-friendly interface for managing accounts, transactions, and other essential banking functions.
 
-## Folder Structure
+## Features
+- Account creation and management
+- Deposit and withdrawal transactions
+- Balance inquiry
+- Transaction history
+- User-friendly GUI with Java Swing
 
-The workspace contains two folders by default, where:
+## Screenshots
+![Screenshot 1](screenshot/1.png)
+![Screenshot 2](screenshot/2.png)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Technologies Used
+- Java
+- Java Swing for GUI
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Bank Management System.git
+   cd BankManagementSystem
+   
+   ```
+2. Run Project
+   ```bash
+   javac Main.java
+   java Main
+   ```
+## Usage
+1. Launch the application.
+2. Follow the on-screen instructions to perform banking operations.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Contribution
+Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
-## Dependency Management
+1. Fork the repository
+2. Create a new branch (git checkout -b feature/new-feature)
+3. Commit your changes (git commit -m 'Add new feature')
+4. Push to the branch (git push origin feature/new-feature)
+5. Create a pull request
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Acknowledgments
+- Thanks to Java for the programming language.
+- Special thanks to Java Swing for the GUI components.
+- Feel free to customize the content according to your project's specific details. Add more sections or information as needed.
